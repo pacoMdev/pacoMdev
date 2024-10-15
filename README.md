@@ -1,28 +1,27 @@
-## Hola soy Francisco Morales
+### Hola soy Francisco Morales
 
 <br>
 ## About me
 <p></p>
 <br>
 ## Tecnologias
+![HTML]()
+![CSS]()
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP]()
+![Java]()
+![MySql]()
+![MongoDB]()
+![VSCode]()
+![Visual Studio]()
+![Pycharm]()
+![Eclipse]()
+![Git]()
+![GitHub]()
+
 <p></p>
 <br>
 
 ### Links de interes
 Portafolio: [Portafolio personal](https://pacomdev.github.io/portafolioPersonal/)<br>
 Linkedin: [Linkedin](https://www.linkedin.com/in/francisco-morales-tapia-510429315/)<br>
-
-<!--
-**pacoMdev/pacoMdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
