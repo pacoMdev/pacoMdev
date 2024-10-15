@@ -1,16 +1,16 @@
 ## Hola soy Francisco Morales
 
 <br>
-### About me
+## About me
 <p></p>
 <br>
-### Tecnologias
+## Tecnologias
 <p></p>
 <br>
 
 ### Links de interes
-Portafolio: [My portafolio](https://pacomdev.github.io/portafolioPersonal/)
-Linkedin: [My Linkedin](https://www.linkedin.com/in/francisco-morales-tapia-510429315/)
+Portafolio: [Portafolio personal](https://pacomdev.github.io/portafolioPersonal/)<br>
+Linkedin: [Linkedin](https://www.linkedin.com/in/francisco-morales-tapia-510429315/)<br>
 
 <!--
 **pacoMdev/pacoMdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
