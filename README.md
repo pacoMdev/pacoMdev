@@ -1,11 +1,12 @@
-# Hola 👋, soy Francisco Morales
+# Hola, soy Francisco Morales 👋
 Soy un estudiante que esta aprendiendo las grandes tecnologias de la programacion y poder gestionar paginas web, actualmente estoy estudiando el curso de DAW, con grandes ganas de comenzar un nuevo proyecto. 
 Aqui tengo mi [portafolio personal](https://pacomdev.github.io/portafolioPersonal/)
 
 
 ## 🌐 Buscame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-morales-tapia-510429315/)
-[![Mail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:fraciscomorales02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Morales-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-morales-tapia-510429315/)
+[![Email](https://img.shields.io/badge/gmail-fraciscomorales02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fraciscomorales02@gmail.com)
+[![Portafolio](https://img.shields.io/badge/web-pacomdev.com-purple?style=for-the-badge&logo=dev.to&logoColor=white)](mailto:fraciscomorales02@gmail.com)
 
 # 💻 Tecnologias:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
